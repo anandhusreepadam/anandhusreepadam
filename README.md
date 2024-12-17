@@ -1,7 +1,7 @@
 
 ![snake gif](https://github.com/anandhusreepadam/anandhusreepadam/blob/output/github-snake-dark.svg)
 
-# Hi there! 👋 I'm Anandhu 🚀
+# Hi there! 👋 I'm Anandhu
 
 ![Banner](https://via.placeholder.com/1000x200?text=Welcome+to+My+GitHub+Profile)
 
@@ -36,9 +36,9 @@ I'm a passionate **MERN Stack Developer** with a knack for building scalable web
 ---
 
 ## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhusreepadam&layout=compact&theme=radical)
 ![Anandhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandhusreepadam&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhusreepadam&layout=compact&theme=radical)
 
 ---
 
