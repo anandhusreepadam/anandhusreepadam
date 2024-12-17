@@ -3,7 +3,7 @@
 
 # Hi there! 👋 I'm Anandhu
 
-![Banner](https://via.placeholder.com/1000x200?text=Welcome+to+My+GitHub+Profile)
+![Header](./github-header-image.png)
 
 I'm a passionate **MERN Stack Developer** with a knack for building scalable web applications and solving real-world problems. Here's a quick overview of what I do and how you can connect with me:
 
