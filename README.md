@@ -36,9 +36,9 @@ I'm a passionate **MERN Stack Developer** with a knack for building scalable web
 ---
 
 ## 📈 GitHub Stats
-![Anandhu's GitHub Stats](https://github-readme-stats.vercel.app/api?anandhusreepadam=youranandhusreepadam&show_icons=true&theme=radical)
+![Anandhu's GitHub Stats](https://github-readme-stats.vercel.app/api?anandhusreepadam=anandhusreepadam&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?anandhusreepadam=youranandhusreepadam&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?anandhusreepadam=anandhusreepadam&layout=compact&theme=radical)
 
 ---
 
