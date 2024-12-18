@@ -1,5 +1,5 @@
-<div align='center'>
-![snake gif](https://github.com/anandhusreepadam/anandhusreepadam/blob/output/github-snake-dark.svg)
+<div style="text-align: center;">
+  <img src="https://github.com/anandhusreepadam/anandhusreepadam/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
 
