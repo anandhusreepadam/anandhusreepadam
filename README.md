@@ -1,5 +1,7 @@
-
+<div align='center'>
 ![snake gif](https://github.com/anandhusreepadam/anandhusreepadam/blob/output/github-snake-dark.svg)
+</div>
+
 
 # Hi there! 👋 I'm Anandhu
 
