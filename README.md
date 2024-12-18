@@ -1,14 +1,13 @@
-<div style="text-align: center;">
-  <img src="https://github.com/anandhusreepadam/anandhusreepadam/blob/output/github-snake-dark.svg" alt="snake gif">
-</div>
 
 
 # Hi there! 👋 I'm Anandhu
 
-![Header](./github-header-image.png)
 
 I'm a passionate **MERN Stack Developer** with a knack for building scalable web applications and solving real-world problems. Here's a quick overview of what I do and how you can connect with me:
 
+<div style="text-align: center;">
+  <img src="https://github.com/anandhusreepadam/anandhusreepadam/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
 ---
 
 ## 🌟 About Me 
