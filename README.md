@@ -5,9 +5,12 @@
 
 I'm a passionate **MERN Stack Developer** with a knack for building scalable web applications and solving real-world problems. Here's a quick overview of what I do and how you can connect with me:
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/anandhusreepadam/anandhusreepadam/blob/output/github-snake-dark.svg" alt="snake gif">
-</div>
+</p>
+
+
+
 ---
 
 ## 🌟 About Me 
@@ -56,6 +59,9 @@ An elegant online dress shop built using the MERN stack. Featuring:
 ## 📫 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/anandhusreepadam)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:anandhusreepadam@gmail.com)
+
+
+
 
 ---
 
