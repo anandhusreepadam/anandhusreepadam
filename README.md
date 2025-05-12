@@ -14,9 +14,9 @@ I'm a passionate **MERN Stack Developer** with a knack for building scalable web
 ---
 
 ## 🌟 About Me 
-- 🖥️ **Expertise**: JavaScript, React, Node.js, MongoDB, Express.js
+- 🖥️ **Expertise**: JavaScript, TypeScript, React, Node.js, Express.js, MongoDB
 - 💼 **Currently working on**: An **e-commerce platform** for an online dress shop
-- 🎯 **Goals for 2025**: Master TypeScript and explore DevOps
+- 🎯 **Goals for 2025**: Master Next.js
 - 📚 **Hobbies**: Coding, public speaking, and exploring cutting-edge tech!
 
 ---
